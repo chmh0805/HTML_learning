@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Leonardo Dicaprio</title>
+    <meta charset='utf-8'>
+    <style>
+      h1 {
+        text-align: center;
+      }
+      img {
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+      }
+      
+      p {
+        color: red;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Leonardo Dicaprio</h1>
+    <img src="https://i.pinimg.com/236x/f0/89/eb/f089ebe63c98854f501eb6b9853ddba5--leonardo-di-caprio-leonardo-dicaprio-catch-me-if-you-can.jpg">
+    <p>He is <b><i>handsome</i></b>.</p>
+    <a href="https://en.wikipedia.org/wiki/Leonardo_DiCaprio">WIKI</a>
+  </body>
+</html>
